@@ -15,6 +15,6 @@ import { ArtistComponent } from './artist/artist.component';
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [ArtistComponent]
 })
 export class AppModule { }
